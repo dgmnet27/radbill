@@ -2,7 +2,7 @@
 
 # Detect Architecture
 ARCH=$(dpkg --print-architecture)
-BASE_URL="https://github.com/dgmnet27/radbill/releases/latest/download"
+BASE_URL="https://github.com/radbill/radbill/releases/latest/download"
 
 echo "Detected Architecture: $ARCH"
 
